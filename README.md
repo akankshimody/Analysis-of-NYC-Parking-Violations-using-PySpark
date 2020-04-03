@@ -14,7 +14,7 @@ The project was mainly implemented in PySpark and Python on the [Databricks](htt
 Our detailed presentation can be found [here](https://github.com/akankshimody/Analysis-of-NYC-Parking-Violations-using-PySpark/blob/master/Project%20Presentation.pdf)
 
 ### Insights and Recommendations
-![insights](https://github.com/akankshimody/Analysis-of-NYC-Parking-Violations-using-PySpark/blob/master/Insights.PNG)
+<img src="(https://github.com/akankshimody/Analysis-of-NYC-Parking-Violations-using-PySpark/blob/master/Insights.PNG" alt="Image1" width="400"/><br>
 
 ### Business Applications
 * Develop mobile applications that help people locate parking spots and alert drivers of locations where the chances of getting ticketed for a particular violation is higher. 
